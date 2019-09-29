@@ -179,29 +179,29 @@ nav ul{
 .category-item.classic {
   min-width: 695px;
   min-height: 652px;
-  background-image: url("/images/classic.png");
+  background-image: url("./images/classic.png");
 }
 
 .category-item.mousseous {
-  background-image: url("images/muss.png");
+  background-image: url("./images/muss.png");
 }
 
 .category-item.wedding {
-  background-image: url("/images/wedding.png");
+  background-image: url("./images/wedding.png");
 }
 
 .category-item.men {
-  background-image: url("/images/men.png");
+  background-image: url("./images/men.png");
 }
 
 .category-item.woman {
-  background-image: url("/images/women.png");
+  background-image: url("./images/women.png");
 }
 
 .category-item.baby {
   min-width: 695px;
   min-height: 652px;
-  background-image: url("/images/child.png");
+  background-image: url("./images/child.png");
 }
 
 .category-item h3 {
@@ -237,7 +237,7 @@ nav ul{
   bottom: 35px;
   width: 24px;
   height: 18px;
-  background-image: url("/images/arrow.png");
+  background-image: url("./images/arrow.png");
   background-repeat: no-repeat;
 }
  .categories-list {
@@ -258,7 +258,7 @@ nav ul{
 }
 
 .category-item:hover::after {
-  background-image: url("/images/arrow-pink.png");
+  background-image: url("./images/arrow-pink.png");
 }
 
 individual-order {
@@ -411,14 +411,14 @@ padding-right: 50px;
 
 .slider-btn.previous {
   left: 0;
-  background-image: url("/images/left_arrow.png");
+  background-image: url("./images/left_arrow.png");
 }
 .filling{
   padding-right: 45px;
 }
 .slider-btn.next {
   right: 0;
-  background-image: url("/images/right_arrow.png");
+  background-image: url("./images/right_arrow.png");
 }
 
 .slider-counter {
@@ -492,7 +492,7 @@ padding-right: 50px;
   width: 143px;
   height: 143px;
   line-height: 143px;
-  background-image: url(/images/circle1.png);
+  background-image: url(./images/circle1.png);
 }
 
 
@@ -500,21 +500,21 @@ padding-right: 50px;
   width: 187px;
   height: 187px;
   line-height: 187px;
-  background-image: url(/images/circle2.png);
+  background-image: url(./images/circle2.png);
 }
 
 .cake-size .large {
   width: 207px;
   height: 207px;
   line-height: 207px;
-  background-image: url(/images/circle3.png);
+  background-image: url(./images/circle3.png);
 }
 
 .cake-size .huge {
   width: 233px;
   height: 233px;
   line-height: 233px;
-  background-image: url(/images/circle4.png);
+  background-image: url(./images/circle4.png);
 }
 
 .order-step.cake-decors {
@@ -522,7 +522,7 @@ padding-right: 50px;
   padding-right: 90px;
   padding-left: 75px;
   padding-bottom: 72px;
-  background-image: url("/images/illustration.png");
+  background-image: url("./images/illustration.png");
   background-repeat: no-repeat;
   background-position: 20px 200px;
 }
@@ -766,7 +766,7 @@ line-height: 1.3;
   width: 100%;
   text-align: right;
   color: #ffffff;
-  background-image: url(/images/hands.png);
+  background-image: url(./images/hands.png);
   margin-top: 300px;
   float: right;
   padding-right: 140px;
@@ -850,7 +850,7 @@ padding-right: 20px;
   padding-top: 125px;
   padding-bottom: 185px;
   color: #ffffff;
-  background-image: url("images/hands.png");
+  background-image: url("./images/hands.png");
   background-repeat: no-repeat;
   background-position: center bottom;
 }
@@ -927,7 +927,7 @@ padding-right: 20px;
 .contacts {
   padding-top: 75px;
   padding-bottom: 295px;
-  background-image: url("/images/strawberries.png");
+  background-image: url("./images/strawberries.png");
 
   background-repeat: no-repeat;
   background-position: right bottom;
